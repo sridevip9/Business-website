@@ -1,0 +1,13 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-image: url('../Images/background.jpg');
+    background-repeat: no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.form-group {
+    width: 960px;
+}
